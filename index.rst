@@ -3,11 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-1.目录
+设计模式
+======================================================
+
+2.目录
 ======================================================
 
 .. toctree::
    :maxdepth: 3
 
    00.summary/summary
+   01.factory/factory
 

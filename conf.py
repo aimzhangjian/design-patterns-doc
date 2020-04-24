@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'微服务架构概述'
+project = u'设计模式'
 copyright = u''
 author = u'张建'
 
@@ -128,7 +128,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'microservices.tex', u'microservices overview',
+    (master_doc, 'design.tex', u'design patterns',
      u'张建', 'manual'),
 ]
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'microservices', u'microservices overview',
+    (master_doc, 'design', u'design patterns',
      [author], 1)
 ]
 
@@ -149,8 +149,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'microservices', u'microservices overview',
-     author, 'microservices', 'One line description of project.',
+    (master_doc, 'design', u'design patterns',
+     author, 'design', 'One line description of project.',
      'Miscellaneous'),
 ]
 
