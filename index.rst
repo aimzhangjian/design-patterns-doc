@@ -15,4 +15,5 @@
    00.summary/summary
    01.factory/factory
    02.abstractfactory/abstract_factory
+   04.builder/builder.rst
 
