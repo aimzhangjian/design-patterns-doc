@@ -16,4 +16,6 @@
    01.factory/factory
    02.abstractfactory/abstract_factory
    04.builder/builder.rst
+   05.prototype/prototype.rst
+   06.adapter/adapter.rst
 
