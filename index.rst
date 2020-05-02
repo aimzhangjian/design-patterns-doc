@@ -18,4 +18,5 @@
    04.builder/builder.rst
    05.prototype/prototype.rst
    06.adapter/adapter.rst
+   07.bridge/bridge.rst
 
