@@ -19,4 +19,5 @@
    05.prototype/prototype.rst
    06.adapter/adapter.rst
    07.bridge/bridge.rst
+   08.filter/filter.rst
 
