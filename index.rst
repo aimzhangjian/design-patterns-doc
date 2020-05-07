@@ -20,4 +20,4 @@
    06.adapter/adapter.rst
    07.bridge/bridge.rst
    08.filter/filter.rst
-
+   09.composite/composite.rst
