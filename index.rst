@@ -21,3 +21,4 @@
    07.bridge/bridge.rst
    08.filter/filter.rst
    09.composite/composite.rst
+   10.decorator/decorator.rst
