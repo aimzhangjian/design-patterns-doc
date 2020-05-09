@@ -22,3 +22,4 @@
    08.filter/filter.rst
    09.composite/composite.rst
    10.decorator/decorator.rst
+   11.facade/facade.rst
