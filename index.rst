@@ -23,3 +23,4 @@
    09.composite/composite.rst
    10.decorator/decorator.rst
    11.facade/facade.rst
+   12.flyweight/flyweight.rst
