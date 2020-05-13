@@ -24,3 +24,5 @@
    10.decorator/decorator.rst
    11.facade/facade.rst
    12.flyweight/flyweight.rst
+   13.proxy/proxy.rst
+   14.chain/chain.rst
