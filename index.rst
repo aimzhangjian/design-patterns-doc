@@ -26,3 +26,4 @@
    12.flyweight/flyweight.rst
    13.proxy/proxy.rst
    14.chain/chain.rst
+   15.command/command.rst
