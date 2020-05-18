@@ -27,4 +27,5 @@
    13.proxy/proxy.rst
    14.chain/chain.rst
    15.command/command.rst
-   16.interpreter/Interpreter.rst
+   16.interpreter/interpreter.rst
+   17.iterator/iterator.rst
