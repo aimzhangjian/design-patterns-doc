@@ -29,3 +29,4 @@
    15.command/command.rst
    16.interpreter/interpreter.rst
    17.iterator/iterator.rst
+   18.mediator/mediator.rst

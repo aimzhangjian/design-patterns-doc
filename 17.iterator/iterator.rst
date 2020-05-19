@@ -55,7 +55,7 @@
 --------------------------------------
 我们将创建一个叙述导航方法的 Iterator 接口和一个返回迭代器的 Container 接口。实现了 Container 接口的实体类将负责实现 Iterator 接口。IteratorPatternDemo，我们的演示类使用实体类 NamesRepository 来打印 NamesRepository 中存储为集合的 Names
 
-.. image:: image/interpreter_pattern_uml_diagram.png
+.. image:: image/iterator_pattern_uml_diagram.png
 
 1. 创建接口::
 
