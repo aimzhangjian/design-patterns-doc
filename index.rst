@@ -30,3 +30,4 @@
    16.interpreter/interpreter.rst
    17.iterator/iterator.rst
    18.mediator/mediator.rst
+   19.memento/memento.rst
