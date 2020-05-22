@@ -32,3 +32,4 @@
    18.mediator/mediator.rst
    19.memento/memento.rst
    20.observer/observer.rst
+   21.state/state.rst
