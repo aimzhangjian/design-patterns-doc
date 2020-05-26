@@ -34,3 +34,4 @@
    20.observer/observer.rst
    21.state/state.rst
    22.nullObject/nullObject.rst
+   23.strategy/strategy.rst
