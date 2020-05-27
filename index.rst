@@ -35,3 +35,4 @@
    21.state/state.rst
    22.nullObject/nullObject.rst
    23.strategy/strategy.rst
+   24.template/template.rst
