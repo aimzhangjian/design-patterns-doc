@@ -36,3 +36,4 @@
    22.nullObject/nullObject.rst
    23.strategy/strategy.rst
    24.template/template.rst
+   25.visitor/visitor.rst
