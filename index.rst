@@ -37,3 +37,4 @@
    23.strategy/strategy.rst
    24.template/template.rst
    25.visitor/visitor.rst
+   26.intercepting/intercepting.rst
